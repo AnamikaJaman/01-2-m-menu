@@ -1,0 +1,33 @@
+.full-page{
+    margin-top: 2%;
+    padding-left: 10px;
+}
+
+
+.left-logo{
+    width: 20px;
+    height: 30px;
+    position: absolute;
+}
+
+/* .hover{
+    opacity: 100%;
+    color: #4054b2;
+} */
+.right-logo{
+    display: flex;
+    justify-content: right;
+    position: relative;
+}
+
+.list{
+    line-height: 2.4;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.background-img{
+    width: 100%;
+    opacity: .2;
+    position: absolute;
+}
